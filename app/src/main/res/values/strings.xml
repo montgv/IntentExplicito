@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">IntentExplicito</string>
     <string name="evaluar">EVALUAR</string>
+    <string name="matematicas">Matemáticas</string>
+    <string name="fisica">Física</string>
+    <string name="quimica">Química</string>
 </resources>
